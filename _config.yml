@@ -4,10 +4,13 @@
 
 # Site
 title: Hexo
+#副标题
 subtitle:
+#网站描述
 description:
-author: John Doe
-language:
+#作者昵称
+author: HJHxHJH
+language:zh-Hans
 timezone:
 
 # URL
@@ -72,7 +75,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: yilia
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
